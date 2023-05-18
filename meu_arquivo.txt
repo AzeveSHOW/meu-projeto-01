@@ -1,1 +1,5 @@
-Tudo bem
+Olá pessoas
+Tudo bem?
+/n/tPara Quebrar a linha use BARRAn e para dar tab no inicio use BARRAt
+\n\tPara Quebrar a linha use BARRAINVERTIDAn e para dar tab no inicio use BARRAINVERTIDAt
+\n\tTexto identado
